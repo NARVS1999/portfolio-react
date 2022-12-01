@@ -3,7 +3,10 @@ import profilePhoto from "../assets/logo/tokyoProfile.png";
 
 function Profile() {
   return (
-    <div className="shadow-lg border-dark card my-2 col-12 border" id="darkTheme">
+    <div
+      className="shadow-lg border-dark card my-2 col-12 border"
+      id="darkTheme"
+    >
       <div className="card-body row">
         <div className="col-lg-4">
           <div className="row mx-1">
@@ -28,15 +31,34 @@ function Profile() {
             </div>
             <div className="my-2 col-lg-5 offset-lg-1 p-0">
               <div className="">
-                <p className="mb-0 textLight"><i className="bi bi-envelope-check-fill" style={{fontSize: 20}}/> johnpaulnarvasa6@gmail.com</p>
-                <p className="mb-0 textLight"><i className="b bi-github" style={{fontSize: 20}}/> github/NARVS1999</p>
-                <p className="mb-0 textLight"><i className="bi bi-telephone" style={{fontSize: 20}}/> 09216447527</p>
+                <p className="mb-0 textLight">
+                  <i
+                    className="bi bi-envelope-check-fill"
+                    style={{ fontSize: 20 }}
+                  />{" "}
+                  johnpaulnarvasa6@gmail.com
+                </p>
+                <p className="mb-0 textLight">
+                  <i className="b bi-github" style={{ fontSize: 20 }} />{" "}
+                  github/NARVS1999
+                </p>
+                <p className="mb-0 textLight">
+                  <i className="bi bi-telephone" style={{ fontSize: 20 }} />{" "}
+                  09216447527
+                </p>
               </div>
             </div>
             <div className="my-2 col-lg-12 p-0">
               <div className="">
-                <p className="text-secondary textParam">Hi, I'm John Paul. I am a front-end developer, I love creating something that gives value to me or to others in a good way.</p>
-                <p className="text-secondary textParam">I love programming because it continues learning career, learning something new makes my day energize. and I love connecting the dots to create valuable software.</p>
+                <p className="text-secondary textParam">
+                  Hi, I'm John Paul. I am a Website developer, I love creating
+                  something that gives value to me or to others in a good way.
+                </p>
+                <p className="text-secondary textParam">
+                  I love programming because it continues learning career,
+                  learning something new makes my day energize. and I love
+                  connecting the dots to create valuable software.
+                </p>
               </div>
             </div>
           </div>
