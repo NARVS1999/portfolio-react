@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.2db9e864.css",
+    "main.js": "/portfolio-react/static/js/main.413b8026.js",
+    "static/media/porfolioReactPicture.png": "/portfolio-react/static/media/porfolioReactPicture.a1cdb41f41494e40aabc.png",
+    "static/media/MovieApi.png": "/portfolio-react/static/media/MovieApi.996562b2ea70845b98c6.png",
+    "static/media/tokyoProfile.png": "/portfolio-react/static/media/tokyoProfile.0d111d9188002d6e7060.png",
+    "static/media/visualStudio.png": "/portfolio-react/static/media/visualStudio.a1daaef0a22ff5849e14.png",
+    "static/media/netCore.png": "/portfolio-react/static/media/netCore.a10a4f42b4a18f594def.png",
+    "static/media/sprintship.png": "/portfolio-react/static/media/sprintship.c4672719b096f46ed813.png",
+    "static/media/calculator-picture.jpg": "/portfolio-react/static/media/calculator-picture.a2f7f5e5333336106f7c.jpg",
+    "static/media/todoPicture.png": "/portfolio-react/static/media/todoPicture.7f5d816269dd009b4abf.png",
+    "static/media/Typescript.png": "/portfolio-react/static/media/Typescript.4e3f27e6784d69f4f587.png",
+    "static/media/git.png": "/portfolio-react/static/media/git.00e5bd772731dbe33649.png",
+    "static/media/html-5.png": "/portfolio-react/static/media/html-5.a92a549a591f4acb527a.png",
+    "static/media/azure_devops.png": "/portfolio-react/static/media/azure_devops.0e512725839ee5cac7e9.png",
+    "static/media/css.png": "/portfolio-react/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/javascript.png": "/portfolio-react/static/media/javascript.38323140666580081f57.png",
+    "static/media/reduxLogo.png": "/portfolio-react/static/media/reduxLogo.543b98d3c75b48613322.png",
+    "static/media/cSharp.png": "/portfolio-react/static/media/cSharp.c6dc48571d7cc2e51d73.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.2db9e864.css.map": "/portfolio-react/static/css/main.2db9e864.css.map",
+    "main.413b8026.js.map": "/portfolio-react/static/js/main.413b8026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db9e864.css",
+    "static/js/main.413b8026.js"
+  ]
+}
