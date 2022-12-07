@@ -36,7 +36,7 @@ function Education() {
                   <p className="m-0 text-secondary textParam">
                   Eclaro Academy (College)
                   </p>
-                  <p className="m-0 text-secondary textParam">2018 - 2022</p>
+                  <p className="m-0 text-secondary textParam">2018 - 2023 (waiting for graduation)</p>
                 </div>
               </div>
             </div>
