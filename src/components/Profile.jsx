@@ -26,7 +26,7 @@ function Profile() {
             <div className="my-2 col-lg-6 p-0">
               <div className="" id="textLight">
                 <h3 className="textLight">John Paul Narvasa</h3>
-                <h6 className="textLight">Frontend Developer</h6>
+                <h6 className="textLight">Web Developer</h6>
               </div>
             </div>
             <div className="my-2 col-lg-5 offset-lg-1 p-0">
@@ -51,13 +51,10 @@ function Profile() {
             <div className="my-2 col-lg-12 p-0">
               <div className="">
                 <p className="text-secondary textParam">
-                  Hi, I'm John Paul. I am a Website developer, I love creating
-                  something that gives value to me or to others in a good way.
+                  Greetings, I am John Paul, a proficient website developement. My passion lies in the creation of digital solutions that not only enrich my own experience but also contribute meaningful value to others.
                 </p>
                 <p className="text-secondary textParam">
-                  I love programming because it continues learning career,
-                  learning something new makes my day energize. and I love
-                  connecting the dots to create valuable software.
+                  I am passionate about programming due to its perpetual nature of learning and personal growth. The pursuit of new knowledge and skills invigorates my professional journey, and I derive immense satisfaction from the art of connecting various components to craft impactful and valuable software solutions.
                 </p>
               </div>
             </div>
