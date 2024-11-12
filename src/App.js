@@ -11,8 +11,8 @@ function App() {
     <div className="container">
       <Navigation/>
       <ProTech />
-      <Education />
       <Work />
+      <Education />
       <ProjectHeading />
       <Project />
       <Aboutme />

@@ -1,5 +1,6 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
-import profilePhoto from "../assets/logo/tokyoProfile.png";
+import profilePhoto from "../assets/logo/profile-4.png";
 
 function Profile() {
   return (
@@ -51,11 +52,11 @@ function Profile() {
             <div className="my-2 col-lg-12 p-0">
               <div className="">
                 <p className="text-secondary textParam">
-                  Greetings, I am John Paul, a proficient website developement. My passion lies in the creation of digital solutions that not only enrich my own experience but also contribute meaningful value to others.
+                Hi there! I'm John Paul, a skilled website developer with a love for crafting digital solutions. I’m all about creating websites that make a difference—for myself and, more importantly, for others!
                 </p>
-                <p className="text-secondary textParam">
+                {/* <p className="text-secondary textParam">
                   I am passionate about programming due to its perpetual nature of learning and personal growth. The pursuit of new knowledge and skills invigorates my professional journey, and I derive immense satisfaction from the art of connecting various components to craft impactful and valuable software solutions.
-                </p>
+                </p> */}
               </div>
             </div>
           </div>

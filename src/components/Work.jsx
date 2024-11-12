@@ -30,13 +30,13 @@ function Work() {
             <div className="text-center text-md-start">
               <h6 className="m-0 textLight">Web Developer</h6>
               <p className="m-0 text-secondary textParam">
-                ADSvanced Media Tech. (side-project)
+                ADSvanced Media Tech. (freelance)
               </p>
               <p className="m-0 text-secondary textParam">
-                March 2023 - Present
+                March 2023 - October 2024
               </p>
               <p>
-                <a href="https://adsvancedmediatech.com" target="_blank" rel="noreferrer">Website</a> | <a href="https://www.facebook.com/profile.php?id=100090568896826/" target="_blank" rel="noreferrer">Social Media</a>
+                <a href="https://adsvancedmediatech.net/" target="_blank" rel="noreferrer">Website</a> | <a href="https://www.facebook.com/adsvancedmediatechofficial" target="_blank" rel="noreferrer">Facebook</a> | <a href="https://www.youtube.com/@adsvancedmediatech" target="_blank" rel="noreferrer">Youtube</a>
               </p>
             </div>
             <div className="text-center text-md-start">

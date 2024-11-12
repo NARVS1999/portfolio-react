@@ -1,6 +1,6 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from "react";
 import reactLogo from "../assets/logo/reactjs.png";
-import reduxLogo from "../assets/logo/reduxLogo.png";
 import bootstrap from "../assets/logo/bootstrap.png";
 import javascript from "../assets/logo/javascript.png";
 import cssLogo from "../assets/logo/css.png";
@@ -39,23 +39,23 @@ function Technology() {
         <div className="my-2">
           <div className="text-center p-0" id="logoImg">
             <img
+              title="CSS3"
+              className="m-2"
+              src={cssLogo}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
+              title="HTML5"
+              className="m-2"
+              src={htmlLogo}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
               title="JavaScript"
               className="m-2"
               src={javascript}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
-            <img
-              title="TypeScript"
-              className="m-2"
-              src={typescript}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
-            <img
-              title="C#"
-              className="m-2"
-              src={cSharp}
               style={{ width: 80 }}
               id={styles.logoImg}
             />
@@ -74,9 +74,44 @@ function Technology() {
               id={styles.logoImg}
             />
             <img
-              title="ReactJS"
+              title="jQuery"
               className="m-2"
-              src={reactLogo}
+              src={jQuery}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
+              title="MySQL"
+              className="m-2"
+              src={mysql}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
+              title="Bootstrap"
+              className="m-2"
+              src={bootstrap}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
+              title="GitHub"
+              className="m-2"
+              src={githubLogo}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
+              title="Git"
+              className="m-2"
+              src={gitLogo}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
+              title="Laravel"
+              className="m-2"
+              src={laravel}
               style={{ width: 80 }}
               id={styles.logoImg}
             />
@@ -88,16 +123,30 @@ function Technology() {
               id={styles.logoImg}
             />
             <img
-              title="Angular"
+              title="TypeScript"
               className="m-2"
-              src={angular}
+              src={typescript}
               style={{ width: 80 }}
               id={styles.logoImg}
             />
             <img
-              title="jQuery"
+              title="C#"
               className="m-2"
-              src={jQuery}
+              src={cSharp}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
+              title="ReactJS"
+              className="m-2"
+              src={reactLogo}
+              style={{ width: 80 }}
+              id={styles.logoImg}
+            />
+            <img
+              title="Angular"
+              className="m-2"
+              src={angular}
               style={{ width: 80 }}
               id={styles.logoImg}
             />
@@ -115,41 +164,7 @@ function Technology() {
               style={{ width: 80 }}
               id={styles.logoImg}
             />
-            <img
-              title="Laravel"
-              className="m-2"
-              src={laravel}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
-            <img
-              title="Bootstrap"
-              className="m-2"
-              src={bootstrap}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
-            <img
-              title="CSS3"
-              className="m-2"
-              src={cssLogo}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
-            <img
-              title="HTML5"
-              className="m-2"
-              src={htmlLogo}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
-            <img
-              title="GitHub"
-              className="m-2"
-              src={githubLogo}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
+
             <img
               title="Azure DevOps"
               className="m-2"
@@ -171,24 +186,11 @@ function Technology() {
               style={{ width: 80 }}
               id={styles.logoImg}
             />
-            <img
-              title="Git"
-              className="m-2"
-              src={gitLogo}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
+
             <img
               title="Microsoft SQL Server"
               className="m-2"
               src={microsoftsql}
-              style={{ width: 80 }}
-              id={styles.logoImg}
-            />
-            <img
-              title="MySQL"
-              className="m-2"
-              src={mysql}
               style={{ width: 80 }}
               id={styles.logoImg}
             />
