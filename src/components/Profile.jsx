@@ -14,7 +14,7 @@ function Profile() {
             <div className="card border-dark my-2 p-0 border">
               <div className="card-body p-1 text-center">
                 <img
-                  className="img-fluid rounded"
+                  className="img-fluid rounded profile-photo"
                   src={profilePhoto}
                   alt="profile-photo"
                 />

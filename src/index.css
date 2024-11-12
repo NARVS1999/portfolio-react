@@ -22,3 +22,7 @@ h6 {
   font-size: 1.3rem;
   color: deepskyblue;
 }
+
+.profile-photo {
+  max-width: 75% !important;
+}
